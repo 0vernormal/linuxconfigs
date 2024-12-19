@@ -300,41 +300,41 @@ DarkGrayShadows = [
 
 
 ForestTones = [
-    ["#1e1e1e", "#1e1e1e"],  # Derin siyaha yakın koyu gri
-    ["#b2a08c", "#b2a08c"],  # Biraz daha parlak toprak tonu
-    ["#282828", "#282828"],  # Gruvbox koyu
-    ["#a84832", "#a84832"],  # Mat turuncu-kızıl ton
-    ["#98971a", "#98971a"],  # Yumuşak yosun yeşili
-    ["#a6780f", "#a6780f"],  # Daha mat bir turuncu kahve
-    ["#458588", "#458588"],  # Hafif mat mavi-yeşil
-    ["#b2a08c", "#b2a08c"],  # Yine parlak toprak tonu
-    ["#79740e", "#79740e"],  # Koyu zeytin yeşili
+    ["#1e1e1e", "#1e1e1e"],  
+    ["#b2a08c", "#b2a08c"],  
+    ["#282828", "#282828"],  
+    ["#a84832", "#a84832"],  
+    ["#98971a", "#98971a"],  
+    ["#a6780f", "#a6780f"],  
+    ["#458588", "#458588"],  
+    ["#b2a08c", "#b2a08c"], 
+    ["#79740e", "#79740e"],  
 ],
 
 
 OceanTones = [
-    ["#0b1c26", "#0b1c26"],  # Derin okyanus koyu mavi
-    ["#87c0cd", "#87c0cd"],  # Parlak ve yumuşak açık mavi
-    ["#1e3a50", "#1e3a50"],  # Koyu lacivert
-    ["#3a91c1", "#3a91c1"],  # Canlı turkuaz
-    ["#2e8ba6", "#2e8ba6"],  # Daha yumuşak bir su mavisi
-    ["#7ab8c7", "#7ab8c7"],  # Hafif pastel okyanus mavisi
-    ["#2c699a", "#2c699a"],  # Derin bir turkuaz
-    ["#6aa6d6", "#6aa6d6"],  # Parlak gökyüzü mavisi
-    ["#457b9d", "#457b9d"],  # Hafif pastel koyu mavi
+    ["#0b1c26", "#0b1c26"], 
+    ["#87c0cd", "#87c0cd"],  
+    ["#1e3a50", "#1e3a50"],  
+    ["#3a91c1", "#3a91c1"],
+    ["#2e8ba6", "#2e8ba6"],
+    ["#7ab8c7", "#7ab8c7"], 
+    ["#2c699a", "#2c699a"],  
+    ["#6aa6d6", "#6aa6d6"], 
+    ["#457b9d", "#457b9d"],  
 ],
 
 
 BloodTones = [
-    ["#2e0f0f", "#2e0f0f"],  # Koyu ama daha görünür siyah-kırmızı
-    ["#5c1a1a", "#5c1a1a"],  # Kurumuş kan kırmızısı
-    ["#921f1f", "#921f1f"],  # Daha belirgin kan kırmızısı
-    ["#d12828", "#d12828"],  # Parlak, taze kan kırmızısı
-    ["#732121", "#732121"],  # Gölge kırmızı, ama biraz daha açık
-    ["#a44a4a", "#a44a4a"],  # Koyu şarap kırmızısı
-    ["#461818", "#461818"],  # Karanlık, tehditkar ton ama daha görünür
-    ["#b54242", "#b54242"],  # Çarpıcı ve dikkat çeken kırmızı
-    ["#632525", "#632525"],  # Hafif pas kırmızısı
+    ["#2e0f0f", "#2e0f0f"],  
+    ["#5c1a1a", "#5c1a1a"],  
+    ["#921f1f", "#921f1f"], 
+    ["#d12828", "#d12828"],  
+    ["#732121", "#732121"],  
+    ["#a44a4a", "#a44a4a"],  
+    ["#461818", "#461818"],  
+    ["#b54242", "#b54242"],  
+    ["#632525", "#632525"],  
 ]
 
 
