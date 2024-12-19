@@ -12,7 +12,7 @@ if [[ "$CURRENT_SCRIPT" != "$TARGET_SCRIPT" ]]; then
     mkdir -p "$TARGET_DIR"
     cp -r "$CURRENT_DIR/"* "$TARGET_DIR/"
     chmod +x "$TARGET_SCRIPT"
-    echo "Betik doğru konuma taşındı: $TARGET_SCRIPT"
+    echo "done: $TARGET_SCRIPT"
     exec "$TARGET_SCRIPT" "$@"
 fi
 
