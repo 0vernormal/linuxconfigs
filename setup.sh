@@ -24,8 +24,10 @@ for dir in "${CONFIG_DIRS[@]}"; do
         mv "$DEST" "$DEST.old"
     fi
 
-    mkdir -p "$CONFIG_BASE"
-    cp -r "$SRC" "$DEST"
+    mkdir -p "$DEST"
+    
+    # Dizin içeriğini kopyala (dizin değil, dosya olarak)
+    cp -r "$SRC/"* "$DEST/"
 done
 
 if [[ -f "$TARGET_DIR/mypackages.txt" ]]; then
